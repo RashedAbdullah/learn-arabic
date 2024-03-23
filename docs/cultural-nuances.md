@@ -1,13 +1,13 @@
 ---
-title: "Alphabets (28 letters)"
+title: "Cultural nuances in language use"
 date: "22-03-2024"
-parent: Alphabet and Pronunciation
+parent: Cultural Insights
 author: "Rashed Abdullah"
 category: "General"
 tags: ["intro", "getting-started"]
 ---
 
-## Introduction to the Arabic alphabet (28 letters)
+## Cultural nuances in language use (greetings, gestures, etc.)
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, id
 odio? Officia nesciunt dolore incidunt autem, magni quaerat sed unde cum!

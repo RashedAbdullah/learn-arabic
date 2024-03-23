@@ -1,13 +1,13 @@
 ---
-title: "Alphabets (28 letters)"
+title: "Basic sentence structure"
 date: "22-03-2024"
-parent: Alphabet and Pronunciation
+parent: Basic Grammar
 author: "Rashed Abdullah"
 category: "General"
 tags: ["intro", "getting-started"]
 ---
 
-## Introduction to the Arabic alphabet (28 letters)
+## Basic sentence structure (subject-verb-object)
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, id
 odio? Officia nesciunt dolore incidunt autem, magni quaerat sed unde cum!

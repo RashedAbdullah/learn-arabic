@@ -1,13 +1,13 @@
 ---
-title: "Alphabets (28 letters)"
+title: "Major Arabic dialects"
 date: "22-03-2024"
-parent: Alphabet and Pronunciation
+parent: Dialects and Standard Arabic
 author: "Rashed Abdullah"
 category: "General"
 tags: ["intro", "getting-started"]
 ---
 
-## Introduction to the Arabic alphabet (28 letters)
+## Overview of major Arabic dialects (e.g., Egyptian, Levantine, Gulf)
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, id
 odio? Officia nesciunt dolore incidunt autem, magni quaerat sed unde cum!

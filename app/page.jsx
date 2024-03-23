@@ -1,6 +1,4 @@
-import { getDocuments } from "@/lib/doc";
 export default function Home() {
-  getDocuments();
   return (
     <div>
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, id
