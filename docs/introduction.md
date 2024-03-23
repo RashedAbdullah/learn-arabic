@@ -1,12 +1,19 @@
 ---
-title: "Education"
+title: "Introduction"
 date: "22-03-2024"
 parent: null
+order: 1
 author: "Rashed Abdullah"
-category: "Arabic language"
-tags: ["arabic", "language"]
+category: "introduction"
+tags: ["intro", "getting-started"]
 ---
 
-## Education
+## Introduction to Arabic Language
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum iure laudantium fugit pariatur cum hic, amet aperiam cumque qui ducimus quisquam ex ipsam dolorem, est nemo deserunt quos sunt! Laborum!
+lorem [Rashed Abdullah](/aothor), this is was a link in md file
+
+### Overview of the Arabic language
+
+### Importance and relevance of learning Arabic
+
+### Brief history of Arabic language and its significance
