@@ -3,8 +3,8 @@ title: "Conclusion"
 date: "22-03-2024"
 parent: null
 order: 10
-author: "Rashed Abdullah"
-category: "General"
+author: "Mahmud Hasan"
+category: "Conclusion"
 tags: ["intro", "getting-started"]
 ---
 

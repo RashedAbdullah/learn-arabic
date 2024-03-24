@@ -4,7 +4,7 @@ date: "22-03-2024"
 parent: null
 order: 3
 author: "Rashed Abdullah"
-category: "General"
+category: "Basic Grammar"
 tags: ["intro", "getting-started"]
 ---
 

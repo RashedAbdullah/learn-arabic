@@ -7,7 +7,7 @@ import React from "react";
 const NavigateLink = ({ classes, path, children }) => {
   const pathename = usePathname();
   const active = pathename === path;
-  console.log(active);
+
   return (
     <Link
       aria-current="page"

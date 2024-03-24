@@ -1,7 +1,26 @@
-import Image from "next/image";
-import React from "react";
+"use client";
 
-const Search = () => {
+import Image from "next/image";
+import React, { useState } from "react";
+import SearchResult from "./searchResult";
+import useDebounce from "@/hooks/useDebounce";
+
+const Search = ({ docs }) => {
+  const [input, setInput] = useState("");
+  const [result, setResutl] = useState([]);
+
+  const handleChange = (e) => {
+    setInput(e.target.value);
+    doSearch(e.target.value);
+  };
+
+  const doSearch = useDebounce((term) => {
+    const found = docs.filter((doc) =>
+      doc.title.toLowerCase().includes(term.toLowerCase())
+    );
+    setResutl(found);
+  }, 1000);
+  console.log(result);
   return (
     <div className="hidden lg:block lg:max-w-md lg:flex-auto">
       <button
@@ -16,6 +35,8 @@ const Search = () => {
           className="h-5 w-5"
         />
         <input
+          value={input}
+          onChange={handleChange}
           type="text"
           placeholder="Search..."
           className="flex-1 focus:border-none focus:outline-none"
@@ -25,6 +46,9 @@ const Search = () => {
           <kbd className="font-sans">K</kbd>
         </kbd>
       </button>
+      {input && input.trim().length > 0 && (
+        <SearchResult results={result} input={input} setInput={setInput}/>
+      )}
     </div>
   );
 };

@@ -3,8 +3,8 @@ title: "Importance of listening and speaking"
 date: "22-03-2024"
 parent: Listening and Speaking
 author: "Rashed Abdullah"
-category: "General"
-tags: ["intro", "getting-started"]
+category: "Listening and Speaking"
+tags: ["listening", "speaking"]
 ---
 
 ## Importance of Listening and Speaking Skills in Learning Arabic

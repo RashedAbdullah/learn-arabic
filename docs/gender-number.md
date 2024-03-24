@@ -3,8 +3,8 @@ title: "Gender and number agreement"
 date: "22-03-2024"
 parent: Basic Grammar
 author: "Rashed Abdullah"
-category: "General"
-tags: ["intro", "getting-started"]
+category: "Basic Grammar"
+tags: ["grammar"]
 ---
 
 ## Gender and Number Agreement

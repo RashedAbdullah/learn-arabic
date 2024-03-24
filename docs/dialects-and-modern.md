@@ -3,8 +3,8 @@ title: "Distinction between dialects and Modern Arabic"
 date: "22-03-2024"
 parent: Dialects and Standard Arabic
 author: "Rashed Abdullah"
-category: "General"
-tags: ["intro", "getting-started"]
+category: "Dialects and Standard Arabic"
+tags: ["modern-arabic", "dialects"]
 ---
 
 ## Distinction Between Spoken Dialects and Modern Standard Arabic (MSA)

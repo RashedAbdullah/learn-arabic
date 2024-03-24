@@ -4,7 +4,7 @@ date: "22-03-2024"
 parent: Resources
 author: "Rashed Abdullah"
 category: "General"
-tags: ["intro", "getting-started"]
+tags: ["feedbacksuggestions", "getting-started"]
 ---
 
 ## Recommended Textbooks, Online Courses, and Language Learning Apps for Arabic

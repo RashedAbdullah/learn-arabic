@@ -3,8 +3,8 @@ title: "Institutes and immersion programs"
 date: "22-03-2024"
 parent: Resources
 author: "Rashed Abdullah"
-category: "General"
-tags: ["intro", "getting-started"]
+category: "Resources"
+tags: ["institutes"]
 ---
 
 ## Arabic Language Institutes and Immersion Programs

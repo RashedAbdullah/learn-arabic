@@ -3,8 +3,8 @@ title: "Encouragement for continued learning"
 date: "22-03-2024"
 parent: Conclusion
 author: "Rashed Abdullah"
-category: "General"
-tags: ["intro", "getting-started"]
+category: "Conclusion"
+tags: ["encouragement", "motivation"]
 ---
 
 ## Encouragement and Motivation for Continued Arabic Language Learning

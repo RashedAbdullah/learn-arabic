@@ -3,7 +3,7 @@ title: "Common pronunciation"
 date: "22-03-2024"
 parent: Alphabet and Pronunciation
 author: "Rashed Abdullah"
-category: "General"
+category: "Alphabet and Pronunciation"
 tags: ["intro", "getting-started"]
 ---
 

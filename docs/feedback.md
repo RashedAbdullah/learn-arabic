@@ -3,8 +3,8 @@ title: "Invitation for feedback and suggestions from users"
 date: "22-03-2024"
 parent: Conclusion
 author: "Rashed Abdullah"
-category: "General"
-tags: ["intro", "getting-started"]
+category: "Conclusion"
+tags: ["feedback", "suggestions"]
 ---
 
 ## Invitation for Feedback and Suggestions

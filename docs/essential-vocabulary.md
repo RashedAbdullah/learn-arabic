@@ -3,8 +3,8 @@ title: "Essential vocabulary"
 date: "22-03-2024"
 parent: Vocabulary Building
 author: "Rashed Abdullah"
-category: "General"
-tags: ["intro", "getting-started"]
+category: "Vocabulary Building"
+tags: ["vocabulary"]
 ---
 
 ## Essential Arabic Vocabulary for Everyday Use

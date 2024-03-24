@@ -3,7 +3,7 @@ title: "Arabic culture and customs"
 date: "22-03-2024"
 parent: Cultural Insights
 author: "Rashed Abdullah"
-category: "General"
+category: "Cultural Insights"
 tags: ["intro", "getting-started"]
 ---
 

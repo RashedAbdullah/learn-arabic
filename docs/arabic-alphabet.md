@@ -2,8 +2,8 @@
 title: "Alphabets (28 letters)"
 date: "22-03-2024"
 parent: Alphabet and Pronunciation
-author: "Rashed Abdullah"
-category: "General"
+author: "Labib Irfan"
+category: "Alphabet and Pronunciation"
 tags: ["intro", "getting-started"]
 ---
 

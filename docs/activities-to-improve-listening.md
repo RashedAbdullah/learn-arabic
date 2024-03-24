@@ -3,7 +3,7 @@ title: "Activities to improve listening comprehension"
 date: "22-03-2024"
 parent: Listening and Speaking
 author: "Rashed Abdullah"
-category: "General"
+category: "Listening and Speaking"
 tags: ["intro", "getting-started"]
 ---
 

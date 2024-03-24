@@ -4,7 +4,7 @@ date: "22-03-2024"
 parent: null
 order: 2
 author: "Rashed Abdullah"
-category: "General"
+category: "Alphabet and Pronunciation"
 tags: ["intro", "getting-started"]
 ---
 

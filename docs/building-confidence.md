@@ -2,8 +2,8 @@
 title: "Tips for building confidence in speaking Arabic"
 date: "22-03-2024"
 parent: Listening and Speaking
-author: "Rashed Abdullah"
-category: "General"
+author: "Mhmud Hasan"
+category: "Listening and Speaking"
 tags: ["intro", "getting-started"]
 ---
 

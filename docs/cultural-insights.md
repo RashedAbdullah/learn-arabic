@@ -3,8 +3,8 @@ title: "Cultural Insights"
 date: "22-03-2024"
 parent: null
 order: 9
-author: "Rashed Abdullah"
-category: "General"
+author: "Labib irfan"
+category: "Cultural Insights"
 tags: ["intro", "getting-started"]
 ---
 
