@@ -7,7 +7,7 @@ import LoadingDoc from "./loadingDoc";
 
 const ContentDisplay = async ({ id }) => {
   const content = await getDocumentsContent(id);
-  console.log(content);
+
   return (
     <Suspense fallback={<LoadingDoc />}>
       {" "}

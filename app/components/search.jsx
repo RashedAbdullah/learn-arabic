@@ -20,7 +20,7 @@ const Search = ({ docs }) => {
     );
     setResutl(found);
   }, 1000);
-  console.log(result);
+
   return (
     <div className="hidden lg:block lg:max-w-md lg:flex-auto">
       <button
@@ -47,7 +47,7 @@ const Search = ({ docs }) => {
         </kbd>
       </button>
       {input && input.trim().length > 0 && (
-        <SearchResult results={result} input={input} setInput={setInput}/>
+        <SearchResult results={result} input={input} setInput={setInput} />
       )}
     </div>
   );
