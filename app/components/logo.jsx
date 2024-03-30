@@ -10,7 +10,7 @@ const Logo = () => {
           width={100}
           height={24}
           src="/logo.svg"
-          alt="Protocol"
+          alt="learn arabic"
           className="h-6 w-auto"
         />
       </Link>
