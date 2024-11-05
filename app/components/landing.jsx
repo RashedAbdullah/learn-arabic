@@ -44,7 +44,7 @@ const LandingPage = () => {
               </div>
               <div className="relative lg:col-span-3">
                 <Image
-                  src="/banner.png"
+                  src="/learn-arabic.webp"
                   alt="Banner"
                   width={1600}
                   height={1280}

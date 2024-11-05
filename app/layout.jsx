@@ -4,11 +4,58 @@ import HeaderWithSideBar from "./components/header";
 import { getDocuments } from "@/lib/doc";
 import Footer from "./components/footer";
 import { Analytics } from "@vercel/analytics/react";
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Learn Arabic",
-  description: "A Arabic learning website",
+  description: "A comprehensive Arabic learning website",
+  generator: "Next.js",
+  applicationName: "Learn Arabic",
+  referrer: "origin-when-cross-origin",
+  keywords: [
+    "Learn Arabic",
+    "Arabic language",
+    "Arabic script",
+    "Next.js",
+    "React",
+    "JavaScript",
+  ],
+  authors: [{ name: "Rashed Abdullah", url: "https://rashedabdullah.com" }],
+  creator: "Rashed Abdullah",
+  publisher: "Rashed Abdullah",
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
+  },
+  metadataBase: new URL("https://learn-arabic.vercel.app"), // Add this line
+  openGraph: {
+    title: "Learn Arabic",
+    description: "A comprehensive Arabic learning website",
+    url: "https://learn-arabic.vercel.app",
+    images: [
+      {
+        url: "/learn-arabic.webp",
+        width: 800,
+        height: 600,
+        alt: "Learn Arabic",
+      },
+    ],
+  },
+};
+
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "Learn Arabic",
+  url: "https://learn-arabic.vercel.app",
+  sameAs: [
+    "https://www.rashedabdullah.com",
+    "https://www.facebook.com/Rashed4Abdullah",
+    "https://www.linkedin.com/in/rashed4abdullah/",
+    "https://www.instagram.com/rashed4abdullah",
+  ],
 };
 
 export default function RootLayout({ children }) {
@@ -16,14 +63,21 @@ export default function RootLayout({ children }) {
 
   return (
     <html lang="en">
+      <head>
+        <link rel="canonical" href="https://learn-arabic.vercel.app" />{" "}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+        />
+      </head>
       <body className={inter.className}>
         <Analytics />
         <div className="h-full lg:ml-72 xl:ml-80">
           <HeaderWithSideBar docs={allDocs} />
-          <div className="relative px-4 pt-14 sm:px-6 lg:px-8">
+          <main className="relative px-4 pt-14 sm:px-6 lg:px-8">
             {children}
-            <Footer />
-          </div>
+          </main>
+          <Footer />
         </div>
       </body>
     </html>

@@ -6,13 +6,7 @@ const Logo = () => {
   return (
     <div className="hidden lg:flex">
       <Link aria-label="Home" href="/">
-        <Image
-          width={100}
-          height={24}
-          src="/logo.svg"
-          alt="learn arabic"
-          className="h-6 w-auto"
-        />
+        <h1 className="italic font-semibold text-xl"> Learn Arabic</h1>
       </Link>
     </div>
   );

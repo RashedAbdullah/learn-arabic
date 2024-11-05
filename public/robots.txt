@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://learn-arabic.vercel.app/sitemap.xml
