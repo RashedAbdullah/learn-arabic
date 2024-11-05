@@ -61,6 +61,7 @@ const structuredData = {
 export default function RootLayout({ children }) {
   const allDocs = getDocuments();
 
+
   return (
     <html lang="en">
       <head>

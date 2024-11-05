@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/exhaustive-deps */
 "use client";
 
 import React, { useEffect, useState } from "react";
@@ -46,7 +45,7 @@ const SideBar = ({ docs }) => {
   }, [pathName]);
 
   return (
-    <nav className="hidden lg:mt-10 lg:block">
+    <nav className="lg:mt-10 lg:block">
       <ul role="list" className="border-l border-transparent">
         {rootDocunetations.map((doc) => (
           <li key={doc.id} className="relative">
