@@ -32,9 +32,9 @@ const HeaderWithSideBar = ({ docs }) => {
               <Image
                 width={50}
                 height={50}
-                src="/logo.svg"
+                src="/logo.png"
                 alt="Protocol"
-                className="h-6"
+                className="object-cover h-9 w-9 rounded-full"
               />
             </a>
           </div>
